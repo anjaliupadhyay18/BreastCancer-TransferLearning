@@ -94,7 +94,7 @@ pycparser==2.19
 pycuda==2019.1.2
 pycups==1.9.74
 pycurl==7.43.0.3
-Pygments==2.4.2
+Pygments==2.7.4
 PyGObject==3.32.2
 PyHamcrest==1.9.0
 pyOpenSSL==19.0.0
