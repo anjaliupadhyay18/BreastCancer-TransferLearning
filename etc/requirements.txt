@@ -127,7 +127,7 @@ sklearn==0.0
 speedtest-cli==2.1.1
 team==1.0
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==2.7.2
 tensorflow-estimator==1.14.0
 tensorflow-gpu==1.14.0
 termcolor==1.1.0
